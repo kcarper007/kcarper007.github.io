@@ -1,8 +1,3 @@
----
-title: OFF CAMPUS 101
-
----
-
 # OFF CAMPUS 101
 
 Independent living can be a daunting task. Maybe you're a freshman or incoming transfer student at Virginia Tech looking to live off-campus. Perhaps it's your first time living alone or your first time living in Blacksburg.
